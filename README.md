@@ -1,7 +1,36 @@
-## Hi there I am Riham Wan-Deraman👋
+<table border="0">
+  <tr>
+    <td valign="center" width="20%">
+      <img src="https://github.com/user-attachments/assets/59c749f4-563d-4a79-b42e-a651983a1123" width="180" alt="Avatar GIF" />
+    </td>
+    <td valign="center" width="80%">
+      <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=26&duration=4000&pause=300&color=f14cb3&center=false&vCenter=true&multiline=true&repeat=false&killAnimation=true&width=600&height=140&lines=Hi%2C+there+%E2%9C%A8;I'm+Riham+Wan+Deraman%2C+a+lifelong+learner+girl;Computer+Science+Student+%7C+Backend+Developer" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 <!--
-**rihamwan-cloud/rihamwan-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 👩🏻‍💻 About Me
+
+- 🎓 Computer Science student at Umm Al-Qura University
+- 🤖 Interested in backend developing, Desktop Apps, AI, Machine Learning, , and automation
+- 🌱 Currently improving my skills in PHP and Web Development
+- 📊 Exploring Data Analysis and Data Visualization
+- 🚀 Working toward building practical AI projects
+- 💡 I enjoy learning how technology can solve real-world problems
+- 🎯 My goal is to become a skilled AI Engineer
+---
+
+
+
+
+**rihamwan-cloud/rihamwan-cloud
+hamwan-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +42,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rihamwan-cloud.rihamwan-cloud)
 -->
