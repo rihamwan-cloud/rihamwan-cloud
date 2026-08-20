@@ -1,10 +1,10 @@
 <table border="0">
   <tr>
     <td valign="center" width="20%">
-      <img src="https://github.com/user-attachments/assets/59c749f4-563d-4a79-b42e-a651983a1123" width="180" alt="Avatar GIF" />
+      <img src="https://github.com/user-attachments/assets/0fe32295-d593-4875-8833-397763995406" width="180" alt="Avatar GIF" />
     </td>
     <td valign="center" width="80%">
-      <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=26&duration=4000&pause=300&color=f14cb3&center=false&vCenter=true&multiline=true&repeat=false&killAnimation=true&width=600&height=140&lines=Hi%2C+there+%E2%9C%A8;I'm+Riham+Wan+Deraman%2C+a+lifelong+learner+girl;Computer+Science+Student+%7C+Backend+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=26&duration=4000&pause=300&color=eb92ce&center=false&vCenter=true&multiline=true&repeat=false&killAnimation=true&width=600&height=140&lines=Hi%2C+there+%E2%9C%A8;I'm+Riham+Wan+Deraman%2C+a+lifelong+learner+girl;Computer+Science+Student+%7C+Backend+Developer" alt="Typing SVG" />
     </td>
   </tr>
 </table>
