@@ -1,46 +1,43 @@
 <table border="0">
   <tr>
     <td valign="center" width="20%">
-      <img src="https://github.com/user-attachments/assets/0fe32295-d593-4875-8833-397763995406" width="180" alt="Avatar GIF" />
+      <a href="#">        
+        <img src="https://github.com/user-attachments/assets/0fe32295-d593-4875-8833-397763995406" width="180" alt="Avatar GIF" />
+      </a>
     </td>
     <td valign="center" width="80%">
-      <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=26&duration=4000&pause=300&color=eb92ce&center=false&vCenter=true&multiline=true&repeat=false&killAnimation=true&width=600&height=140&lines=Hi%2C+there+%E2%9C%A8;I'm+Riham+Wan+Deraman%2C+a+lifelong+learner+girl;Computer+Science+Student+%7C+Backend+Developer" alt="Typing SVG" />
+      <a href="#">        
+        <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=eb92ce&center=false&vCenter=true&multiline=true&repeat=false&killAnimation=true&width=610&height=140&lines=Hi%2C+there+%E2%9C%A8;I'm+Riham+Wan+Deraman%2C+a+lifelong+learner+girl;Computer+Science+Student+%7C+Future+Backend+Developer" alt="Typing SVG" />
+      </a>
     </td>
   </tr>
 </table>
 
-
-
-
-
-<!--
 ---
-## 👩🏻‍💻 About Me
+<h3>👩🏻‍💻 About Me</h3>
 
-- 🎓 Computer Science student at Umm Al-Qura University
-- 🤖 Interested in backend developing, Desktop Apps, AI, Machine Learning, , and automation
+- 💻 Computer Science student at Umm Al-Qura University
+- ⚡ Interested in backend developing, Desktop Apps, AI, Machine Learning, Computer Vision, and automation
 - 🌱 Currently improving my skills in PHP and Web Development
-- 📊 Exploring Data Analysis and Data Visualization
-- 🚀 Working toward building practical AI projects
-- 💡 I enjoy learning how technology can solve real-world problems
-- 🎯 My goal is to become a skilled AI Engineer
+- 🎯 Goal is to build impactful backend solutions that simplify lives and serve a purpose.
+
 ---
 
+<h3>📌 Featured Projects</h3>
 
+<ul>
+  <li><b>🎓 Student Management System:</b> A multi-screen JavaFX app built with MVC pattern & binary file storage.</li>
+  <li><b>🎮 2D Galaga-Style Game:</b> A 2D space shooter engine built with C++ & OpenGL.</li>
+</ul>
 
+---
 
-**rihamwan-cloud/rihamwan-cloud
-hamwan-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🛠️ Tech Stack & Tools</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rihamwan-cloud.rihamwan-cloud)
--->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" width="40" height="40" alt="Java" title="Java" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" width="40" height="40" alt="SQL" title="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Scene Builder / JavaFX" title="Scene Builder & JavaFX" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="40" height="40" alt="Git" title="Git" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/github.png" width="40" height="40" alt="GitHub" title="GitHub" />
+</p>
