@@ -23,15 +23,6 @@
 
 ---
 
-<h3>📌 Featured Projects</h3>
-
-<ul>
-  <li><b>🎓 Student Management System:</b> A multi-screen JavaFX app built with MVC pattern & binary file storage.</li>
-  <li><b>🎮 2D Galaga-Style Game:</b> A 2D space shooter engine built with C++ & OpenGL.</li>
-</ul>
-
----
-
 <h3>🛠️ Tech Stack & Tools</h3>
 
 <p align="left">
